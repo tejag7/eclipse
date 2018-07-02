@@ -10,7 +10,7 @@ public class ListToArray {
 		list.add("dinesh");
 		list.add("raj");
 		list.add("sai");
-		
+		list.add("ram");
 		Object[] l = list.toArray();
 		
 		 Iterator itr=list.iterator();  
